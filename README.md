@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishnu-dholu
 - 👀 I’m interested in cyber security / ethical hacking.  
-- 🌱 I’m currently learning cyber security
+- 🌱 I’m currently learning cyber security , Python Programming...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dholuvishnu10@gmail.com
 
